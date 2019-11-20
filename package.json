@@ -32,7 +32,6 @@
     "alfy": "^0.9.1"
   },
   "devDependencies": {
-    "alfy-test": "^0.3.0",
     "ava": "^2.4.0",
     "xo": "^0.25.3"
   }
