@@ -1,0 +1,8 @@
+{
+  "generator-alfred": {
+    "promptValues": {
+      "githubUsername": "imjohnbo",
+      "website": "https://github.com/imjohnbo/alfred-open-latest-weekly-radar"
+    }
+  }
+}
